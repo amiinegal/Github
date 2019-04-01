@@ -2,7 +2,7 @@
     text-align: center;
     border-radius: 5px;
     background: #fff;
-    color: #555;
+    color: rgba(85, 85, 85, 0.075);
     position: relative;
 }
 .header{
@@ -18,7 +18,7 @@
     overflow: hidden;
     background: #fff;
     border-radius: 100%;
-    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.904);
     text-decoration: none;
 }
 h1{
@@ -56,4 +56,5 @@ a{
     text-decoration: none;
 
 }
+
 
