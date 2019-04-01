@@ -30,7 +30,7 @@ Click the green `'clone or download button to get the project code on your PC'`
 
 
 ## contacts
-`amiinegal34@gmail.com`
+Email `amiinegal34@gmail.com`
 slack username `Amin Adan` ;
 ### Licensing
 ### MIT License
