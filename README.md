@@ -31,6 +31,7 @@ Click the green `'clone or download button to get the project code on your PC'`
 
 ## contacts
 `amiinegal34@gmail.com`
+slack username `Amin Adan` ;
 ### Licensing
 ### MIT License
 ## Copyright (c) [2019] [Amin Egal]
