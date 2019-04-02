@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, ChangeDetectionStrategy } from '@angular/core';
-import { User } from 'src/app/models/user.model';
+import { User } from 'src/app/component/models/user.model';
 
 @Component({
   selector: 'app-user',

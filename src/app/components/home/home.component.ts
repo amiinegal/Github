@@ -1,8 +1,9 @@
+
 import { Component, OnInit } from '@angular/core';
 import{FormControl} from '@angular/forms';
 import{GithubService} from '../../services/github.service';
 import {EMPTY, from} from 'rxjs';
-import {User} from '../../models/user.model';
+import {User} from '../../component/models/user.model';
 import {filter, switchMap, debounceTime, catchError} from 'rxjs/operators';
 
 

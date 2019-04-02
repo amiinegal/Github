@@ -1,8 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-
-
+import {FormsModule} from '@angular/forms';
+import { DateCountPipe } from './date-count.pipe';
 
 
 import { AppComponent } from './app.component';
@@ -18,13 +18,15 @@ import { HomeComponent } from './components/home/home.component';
     AppComponent,
     UserComponent,
     NotFoundComponent,
-    HomeComponent,
+    DateCountPipe,
+    HomeComponent
  
    
   ],
   imports: [
     BrowserModule,
  HttpClientModule,
+ FormsModule,
  ReactiveFormsModule
   ],
   providers: [GithubService],
